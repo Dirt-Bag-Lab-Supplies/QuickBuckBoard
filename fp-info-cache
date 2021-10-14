@@ -1,4 +1,4 @@
-10294359832491664
+10302441208643304
 Battery_Holders
 Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (http://www.bulgin.com/media/bulgin/data/Battery_holders.pdf)
@@ -18283,6 +18283,41 @@ Choke SMD
 0
 2
 2
+DBLS_LOGO
+LOGO
+
+
+0
+0
+0
+DBLS_LOGO
+Rooster_4mmx4mm
+
+
+0
+0
+0
+DBLS_LOGO
+Rooster_43mmx43mm
+
+
+0
+0
+0
+DBLS_LOGO
+Texas_MircoSiP-8-1EP_2.8x3.0mm_P0.65_EP
+8-Lead Plastic VSON, 3x3mm Body, 0.65mm Pitch, S-PVSON-N8, http://www.ti.com/lit/ds/symlink/opa2333.pdf
+DFN 0.65 S-PVSON-N8
+0
+9
+9
+DBLS_LOGO
+WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias
+WSON, 6 Pin (http://www.ti.com/lit/ds/symlink/tps61040.pdf#page=35), generated with kicad-footprint-generator ipc_noLead_generator.py
+WSON NoLead
+0
+12
+7
 DBLS_QFN
 QFN-16_EP_3.75x3.75_Pitch0.5mm
 
